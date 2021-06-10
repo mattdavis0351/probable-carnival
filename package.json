@@ -10,6 +10,6 @@
   "author": "mattdavis0351",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^1.12.4"
+    "jquery": "^3.5.0"
   }
 }
