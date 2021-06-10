@@ -27,7 +27,7 @@ Please complete the instructions below:
 ## Seeing your result
 
 Your exercise is graded automatically once you have completed the instructions. To see the result of your exercise, go to the **Actions** tab, and see the most recent run on the **Grading** workflow. <!-- specify expected Looking Glass display_type --><!-- specific place to look -->
-
+    
 ![](https://user-images.githubusercontent.com/6351798/119396166-c0736580-bc91-11eb-8bd8-02abddbcf50a.png)
 
 See _[Viewing workflow run history]_ if you need assistance.
